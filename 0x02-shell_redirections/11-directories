@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -yupe d -not -name '.' | wc -l 
